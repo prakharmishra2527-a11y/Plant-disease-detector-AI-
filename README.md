@@ -205,5 +205,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Shivansh Gupta
-25BCE10924
+Prakhar Mishra
+25BCE11125
