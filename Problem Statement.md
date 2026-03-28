@@ -1,10 +1,9 @@
-# **🌿 Problem Statement**
+ Problem Statement**
 
-## **Plant Disease Detector AI**
+Plant Disease Detector AI**
 
 ---
-
-### **1\. Background**
+ Background
 
 Agriculture is a fundamental sector that supports the livelihood of millions of people worldwide. However, plant diseases remain one of the major challenges affecting crop productivity and food security. Early detection and proper diagnosis of plant diseases are essential to minimize crop loss and ensure sustainable agricultural practices.
 
@@ -12,7 +11,7 @@ Traditionally, plant disease detection relies on manual inspection by agricultur
 
 ---
 
-### **2\. Problem Description**
+2 Problem Description
 
 Farmers frequently face difficulties in identifying plant diseases accurately due to lack of expertise and limited access to diagnostic tools. Misidentification or delayed detection can lead to improper treatment, resulting in reduced crop yield and economic loss.
 
@@ -26,7 +25,7 @@ There is a critical need for an automated, reliable, and efficient system that c
 
 ---
 
-### **3\. Proposed Solution**
+3\. Proposed Solution
 
 This project proposes an AI-based solution using a Convolutional Neural Network (CNN) to automatically detect plant diseases from leaf images.
 
@@ -44,7 +43,7 @@ Additionally, the system supports both:
 
 ---
 
-### **4\. Objectives**
+ 4 Objectives
 
 The key objectives of this project are:
 
@@ -56,7 +55,7 @@ The key objectives of this project are:
 
 ---
 
-### **5\. Scope of the Problem**
+5 Scope of the Problem**
 
 The system focuses on:
 
@@ -72,7 +71,7 @@ The solution is designed for:
 
 ---
 
-### **6\. Expected Outcome**
+6 Expected Outcome
 
 The expected outcome of this project is a functional AI system that:
 
@@ -83,7 +82,7 @@ The expected outcome of this project is a functional AI system that:
 
 ---
 
-### **7\. Conclusion**
+7\. Conclusion
 
 The problem of plant disease detection is critical in modern agriculture. By leveraging artificial intelligence and deep learning, this project aims to provide a scalable and efficient solution that can assist farmers in diagnosing plant diseases quickly and accurately.
 
@@ -91,6 +90,6 @@ This system represents a step toward smart agriculture and technology-driven far
 
 ---
 
-**Submitted By:** Shivansh Gupta  
-**Registration Number:** 25BCE10924
+Submitted By: Prakhar Mishra  
+Registration Number:** 25BCE11125
 
